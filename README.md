@@ -41,6 +41,7 @@ A comprehensive student-teacher portal for managing academic activities, attenda
 
 
 Project Structure 📂
+
   class-connect/
 ├── index.html          # Main entry point
 ├── login.html          # Login portal
