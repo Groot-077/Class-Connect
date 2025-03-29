@@ -42,18 +42,8 @@ A comprehensive student-teacher portal for managing academic activities, attenda
 
 Project Structure 📂
 
-  class-connect/
-├── index.html          # Main entry point
-├── login.html          # Login portal
-├── timetable.html      # Class schedule
-├── attendance.html     # Attendance records
-├── assignments.html    # Assignment tracker
-├── marks.html          # Gradebook
-├── style.css           # Main stylesheet
-├── assets/             # Static files
-│   ├── images/         # All project images
-│   └── icons/          # SVG/icons
-└── README.md           # This file
+![WhatsApp Image 2025-03-30 at 00 32 01_15009fc9](https://github.com/user-attachments/assets/30fd147c-c249-4bd1-b826-1a471db4e916)
+
 
 Screenshots 📷
 
