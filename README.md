@@ -56,8 +56,13 @@ Project Structure 📂
 └── README.md           # This file
 
 Screenshots 📷
+
 Login Page
+
+Student Login
 ![image](https://github.com/user-attachments/assets/900654d5-c322-46d3-9fba-6c3431b17fa2)
+
+Teacher Login
 ![image](https://github.com/user-attachments/assets/c26626b1-ee04-4f32-a6a0-b3c2e5717fee)
 
 Dashboard
